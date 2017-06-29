@@ -1,0 +1,12 @@
+{
+    "name": "shuhei/elastic-search-test",
+    "require": {
+        "elasticsearch/elasticsearch": "~5.0"
+    },
+    "authors": [
+        {
+            "name": "Shuhei Suzuki",
+            "email": "hum2.dmg@gmail.com"
+        }
+    ]
+}
